@@ -4,6 +4,8 @@ int main()
 {
     int num_comb(0);
     /// START YOUR CODE HERE ///
+
+    // 100!/(4!96!)
     int a = 1;
     int i = 97;
     while (i <= 100)
