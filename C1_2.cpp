@@ -11,9 +11,9 @@ int main()
         a = a * i;
         i = i + 1;
     }
-    i = 3;
+    i = 1;
     while (i <= 4)
-        
+
     {
         a = a / i;
         i = i + 1;
