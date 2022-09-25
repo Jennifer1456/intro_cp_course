@@ -2,6 +2,7 @@
 
 int main()
 {
+    // print with the for loop
     for (int i = 0; i < 14; i++)
     {
         for (int j = 0; j < (13 - i); j++)
