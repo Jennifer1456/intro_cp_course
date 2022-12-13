@@ -1,6 +1,9 @@
 #include <iostream>
-double add(double x, double y);
-int main()
-{
-    std::cout << add(2.3, 4.5) << "\n";
+
+int main() 
+{ 
+ char ch; 
+ std::cout << "Input a character: "; 
+ std::cin >> ch; 
+ std::cout << ch << " has ASCII code " << static_cast<int>(ch) << "\n"; 
 }
